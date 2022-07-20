@@ -1,0 +1,17 @@
+{
+  "name": "Discord.js-RPC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-rpc": "^1.0.1",
+    "discord.js-selfbot-v13": "^2.4.1",
+    "node-fetch": "^3.2.6"
+  }
+}
